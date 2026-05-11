@@ -1,5 +1,4 @@
 vless://4d91e443-599a-4172-aa15-4fbf7f0c6e1f@mmt2.kophyoe.online:80?path=%2Fvless&security=&encryption=none&host=www.speedtest.net&type=ws#🇹🇭AIS-1
-vless://22dc6938-3272-494c-bd46-99218abee8a8@ko01.kokovpn.site:80?path=%2Fkokovpn&security=&encryption=none&host=www.speedtest.net&type=ws#🇹🇭AIS-2
 vless://dbc67590-4df1-4571-9ab6-eb06284b786d@45.91.135.190:80?path=%2F&security=&encryption=none&host=speedtest.net&type=ws#🇹🇭AIS-3
 vless://814c5137-35cb-4fbb-ab68-2f9bc487c3b5@lb-xray.thaivpn.uk:443?security=reality&encryption=none&pbk=9vAggzJmejv80mK5e9QVU-lWMlxaf0cRB3ZQ9qVAA0Q&host=www.speedtest.net&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=01234567#🇹🇭AIS-4
 vless://e711485e-7060-4c74-abb9-8f5c818e755d@koko.kokovpn.site:8080?path=%2Fray&security=&encryption=none&host=www.speedtest.net&type=ws#🇹🇭AIS-5
