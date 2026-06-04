@@ -4,3 +4,4 @@ vless://814c5137-35cb-4fbb-ab68-2f9bc487c3b5@lb-xray.thaivpn.uk:443?security=rea
 vmess://eyJhZGQiOiJ6b29tLnR1bXZwbi5jbGljayIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic2hvcC50dW12cG4uY2xpY2siLCJpZCI6IjU5NjM0ODliLTM3MmMtNGFhNC04ZDZjLTQyZmU2NGE1OTQ4OSIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IlRydWVab29tLTEwTWJwcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vless://db8083bc-82ea-41f9-8a3a-7204c3e1453f@v1.mister-chills.uk:80?path=%2Fpontai&security=none&encryption=none&host=speedtest.net&type=ws#🇹🇭AIS-2
 vless://cda29ecb-2781-4bad-86fc-5ce6eac7fd26@v2.mister-chills.uk:80?path=%2Fpongtai&security=none&encryption=none&host=speedtest.net&type=ws#🇹🇭AIS-7
+vless://dbc67590-4df1-4571-9ab6-eb06284b786d@45.91.135.190:80?path=%2F&security=&encryption=none&host=www.speedtest.net&type=ws#🇹🇭AIS-3
