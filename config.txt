@@ -5,3 +5,4 @@ vmess://eyJhZGQiOiJ6b29tLnR1bXZwbi5jbGljayIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIi
 vless://db8083bc-82ea-41f9-8a3a-7204c3e1453f@v1.mister-chills.uk:80?path=%2Fpontai&security=none&encryption=none&host=speedtest.net&type=ws#🇹🇭AIS-2
 vless://cda29ecb-2781-4bad-86fc-5ce6eac7fd26@v2.mister-chills.uk:80?path=%2Fpongtai&security=none&encryption=none&host=speedtest.net&type=ws#🇹🇭AIS-7
 vless://dbc67590-4df1-4571-9ab6-eb06284b786d@45.91.135.190:80?path=%2F&security=&encryption=none&host=www.speedtest.net&type=ws#🇹🇭AIS-3
+vless://6b00c96f-b9e7-4df0-8504-0301f5665dd1@auto.free2.movpn.store:8080?path=%2Fmovpn&security=none&encryption=none&host=cj-speedtest.ebb.my&type=ws#🇹🇭AIS-9
