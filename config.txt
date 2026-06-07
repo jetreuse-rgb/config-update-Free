@@ -9,3 +9,4 @@ vless://6b00c96f-b9e7-4df0-8504-0301f5665dd1@auto.free2.movpn.store:8080?path=%2
 vless://3c52e091-6714-4915-949f-2149fe69951b@116.206.124.228:80?path=%2Fws&security=none&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#🇹🇭AIS-10
 vless://3c52e091-6714-4915-949f-2149fe69951b@v2ray.simspeedup.com:80?path=%2Fws&security=none&encryption=none&host=www.speedtest.net&type=ws#🇹🇭AIS-11
 vless://6a480232-6949-4ad3-8f95-ad083134cf47@www.true.th:80?path=%2Fws&security=&encryption=none&host=dulq7ykxzekby.cloudfront.net&type=ws#Dtac-Nopro-TH
+vless://0d89a4af-65fc-4d41-ab96-71fb2dd7693e@ko01.kokovpn.site:80?path=%2Fkokovpn&security=none&encryption=none&host=www.speedtest.net&type=ws#🇹🇭AIS-12
