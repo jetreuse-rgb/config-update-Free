@@ -11,3 +11,4 @@ vless://0d89a4af-65fc-4d41-ab96-71fb2dd7693e@ko01.kokovpn.site:80?path=%2Fkokovp
 vless://e3ea4592-9101-4672-d571-104ac0aa21dd@2026Free01.pphdev.shop:8080?path=%2Fmvpnpph2026&security=&encryption=none&host=www.speedtest.net&type=ws#🇹🇭AIS-3
 vless://FREE@bm.xq-vpn.com:80?mode=auto&path=%2F&security=none&encryption=none&host=SpEeDtEsT.nEt&type=xhttp#🇹🇭AIS-4
 vless://18e9bc88-6b7d-4ca2-942f-57c1db6cd66f@45.91.135.115:443?path=%2F&security=tls&encryption=none&insecure=1&host=www.speedtest.net&fp=chrome&type=ws&allowInsecure=1&sni=www.speedtest.net#🇹🇭AIS-5
+vless://c24cf077-5903-4084-a372-9ef7cf477030@43.229.149.32:443?path=%2F&security=tls&encryption=none&insecure=1&host=www.speedtest.net&fp=chrome&type=ws&allowInsecure=1&sni=www.speedtest.net#🇹🇭AIS-12
