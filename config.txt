@@ -1,4 +1,4 @@
-vless://4d91e443-599a-4172-aa15-4fbf7f0c6e1f@mmt2.kophyoe.online:80?path=%2Fvless&security=&encryption=none&host=www.speedtest.net&type=ws#🇹🇭AIS-1
+vless://61ac0968-968f-4952-bc01-cf20f276e9ce@lb-xray.thaivpn.uk:8080?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#🇹🇭AIS-1
 vless://aa0350dc-c16e-4d2d-92ab-289cee147b48@r1.rinrada.uk:8080?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#🇹🇭AIS-6
 vmess://eyJhZGQiOiJ6b29tLnR1bXZwbi5jbGljayIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic2hvcC50dW12cG4uY2xpY2siLCJpZCI6IjU5NjM0ODliLTM3MmMtNGFhNC04ZDZjLTQyZmU2NGE1OTQ4OSIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IlRydWVab29tLTEwTWJwcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vless://db8083bc-82ea-41f9-8a3a-7204c3e1453f@v1.mister-chills.uk:80?path=%2Fpontai&security=none&encryption=none&host=speedtest.net&type=ws#🇹🇭AIS-2
