@@ -1,4 +1,3 @@
-vless://61ac0968-968f-4952-bc01-cf20f276e9ce@lb-xray.thaivpn.uk:8080?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#🇹🇭AIS-1
 vless://aa0350dc-c16e-4d2d-92ab-289cee147b48@r1.rinrada.uk:8080?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#🇹🇭AIS-6
 vmess://eyJhZGQiOiJ6b29tLnR1bXZwbi5jbGljayIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic2hvcC50dW12cG4uY2xpY2siLCJpZCI6IjU5NjM0ODliLTM3MmMtNGFhNC04ZDZjLTQyZmU2NGE1OTQ4OSIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IlRydWVab29tLTEwTWJwcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vless://db8083bc-82ea-41f9-8a3a-7204c3e1453f@v1.mister-chills.uk:80?path=%2Fpontai&security=none&encryption=none&host=speedtest.net&type=ws#🇹🇭AIS-2
@@ -8,6 +7,5 @@ vless://3c52e091-6714-4915-949f-2149fe69951b@v2ray.simspeedup.com:80?path=%2Fws&
 vless://6a480232-6949-4ad3-8f95-ad083134cf47@www.true.th:80?path=%2Fws&security=&encryption=none&host=dulq7ykxzekby.cloudfront.net&type=ws#Dtac-Nopro-TH
 vless://0d89a4af-65fc-4d41-ab96-71fb2dd7693e@ko01.kokovpn.site:80?path=%2Fkokovpn&security=none&encryption=none&host=www.speedtest.net&type=ws#🇹🇭AIS-8
 vless://FREE@bm.xq-vpn.com:80?mode=auto&path=%2F&security=none&encryption=none&host=SpEeDtEsT.nEt&type=xhttp#🇹🇭AIS-4
-vless://18e9bc88-6b7d-4ca2-942f-57c1db6cd66f@45.91.135.115:443?path=%2F&security=tls&encryption=none&insecure=1&host=www.speedtest.net&fp=chrome&type=ws&allowInsecure=1&sni=www.speedtest.net#🇹🇭AIS-5
 vless://c9a6874f-be6c-498b-8d94-b51de5dd9756@openvpn.tmweasy.com:443?path=%2F&security=none&encryption=none&host=cj-ebb.speedtest.net&type=ws#%F0%9F%87%B9%F0%9F%87%ADAIS-13
 vmess://eyJhZGQiOiJyb3YudHVtdnBuLmNsaWNrIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzaG9wLnR1bXZwbi5jbGljayIsImlkIjoiNTk2MzQ4OWItMzcyYy00YWE0LThkNmMtNDJmZTY0YTU5NDg5IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiVHJ1ZSBSb1YgRXh0cmVtZSDguYLguJvguKPguJnguLXguYnguYDguKXguYjguJnguYDguIHguKHguKrguYxSb3bguYTguKHguYjguJXguYnguK3guIfguYDguJvguLTguJQgdnBuIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
