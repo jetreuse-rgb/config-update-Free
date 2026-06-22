@@ -9,3 +9,5 @@ vless://0d89a4af-65fc-4d41-ab96-71fb2dd7693e@ko01.kokovpn.site:80?path=%2Fkokovp
 vless://FREE@bm.xq-vpn.com:80?mode=auto&path=%2F&security=none&encryption=none&host=SpEeDtEsT.nEt&type=xhttp#🇹🇭AIS-4
 vless://c9a6874f-be6c-498b-8d94-b51de5dd9756@openvpn.tmweasy.com:443?path=%2F&security=none&encryption=none&host=cj-ebb.speedtest.net&type=ws#%F0%9F%87%B9%F0%9F%87%ADAIS-13
 vmess://eyJhZGQiOiJyb3YudHVtdnBuLmNsaWNrIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzaG9wLnR1bXZwbi5jbGljayIsImlkIjoiNTk2MzQ4OWItMzcyYy00YWE0LThkNmMtNDJmZTY0YTU5NDg5IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiVHJ1ZSBSb1YgRXh0cmVtZSDguYLguJvguKPguJnguLXguYnguYDguKXguYjguJnguYDguIHguKHguKrguYxSb3bguYTguKHguYjguJXguYnguK3guIfguYDguJvguLTguJQgdnBuIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+vless://a5cd4761-0a3d-41d6-b104-da7a91e928a2@v3.mister-chills.uk:80?path=%2Fpongtai&security=&encryption=none&host=speedtest.net&type=ws#🇹🇭AIS-1
+vless://85b62084-d81e-52cd-a016-944f261d34a0@45.144.165.11:80?mode=auto&path=%2F&security=&encryption=none&host=cJ-sPeEdTeSt.EbB.mY&type=xhttp#🇹🇭AIS-3
