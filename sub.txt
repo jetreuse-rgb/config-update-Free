@@ -1,2 +1,6 @@
-vless://aa0350dc-c16e-4d2d-92ab-289cee147b48@r1.rinrada.uk:8080?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#AIS-6
-vless://db8083bc-82ea-41f9-8a3a-7204c3e1453f@v1.mister-chills.uk:80?path=%2Fpontai&security=&encryption=none&host=speedtest.net&type=ws#AIS-2
+vless://cda29ecb-2781-4bad-86fc-5ce6eac7fd26@v2.mister-chills.uk:80?path=%2Fpongtai&security=none&encryption=none&host=speedtest.net&type=ws#AIS-7
+vless://db8083bc-82ea-41f9-8a3a-7204c3e1453f@v1.mister-chills.uk:80?path=%2Fpontai&security=none&encryption=none&host=speedtest.net&type=ws#AIS-2
+vless://aa0350dc-c16e-4d2d-92ab-289cee147b48@r1.rinrada.uk:8080?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#AIS-6
+vless://a5cd4761-0a3d-41d6-b104-da7a91e928a2@v3.mister-chills.uk:80?path=%2Fpongtai&security=none&encryption=none&host=www.speedtest.net.cdn.cloudflare.net&type=ws#AIS-1
+vless://0d89a4af-65fc-4d41-ab96-71fb2dd7693e@ko01.kokovpn.site:80?path=%2Fkokovpn&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS-8
+vless://c9a6874f-be6c-498b-8d94-b51de5dd9756@openvpn.tmweasy.com:443?path=%2F&security=&encryption=none&host=cj-ebb.speedtest.net&type=ws#%F0%9F%87%B9%F0%9F%87%ADAIS-13
