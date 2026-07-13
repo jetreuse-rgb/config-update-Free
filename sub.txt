@@ -1,7 +1,4 @@
-vless://54cf89f2-2352-4dc1-a18d-75aaa975e960@www.true.th:80?path=%2Fknl4&security=&encryption=none&host=d3nikl689a8qpk.cloudfront.net&type=ws#%F0%9F%94%B54.DTAC%20NOPRO
-vless://1dc68834-0167-45fc-843b-cead585ff8e8@www.true.th:80?path=%2F&security=&encryption=none&host=dt8ye6k8febu8.cloudfront.net&type=ws#%F0%9F%94%B56.DTAC%20NOPRO
 vless://7930c91a-9119-4747-b9e5-7a6ba4639fb4@www.true.th:80?path=%2Fknl8&security=&encryption=none&host=d7iwyzy9wpvuu.cloudfront.net&type=ws#%F0%9F%94%B52.DTAC%20NOPRO
-vless://0fc95734-ddf5-4ce7-a0cf-e245cedb58e1@www.true.th:80?path=%2F&security=&encryption=none&host=dt8ye6k8febu8.cloudfront.net&type=ws#%F0%9F%94%B53.DTAC%20NOPRO
 vless://ff0c1cde-6f94-4bf1-9774-ab25c6b4977d@www.true.th:80?path=%2Fknl8&security=&encryption=none&host=d7iwyzy9wpvuu.cloudfront.net&type=ws#%F0%9F%94%B55.DTAC%20NOPRO
 vless://c77443a8-cb3d-4c1c-b010-87a2b888c9a0@roglobal.com:80?path=%2Fray&security=&encryption=none&host=myo.vip.mvpn5g.com&type=ws#%F0%9F%94%B42.TRUE-PRO-ROV.EXTREM
 vmess://eyJhZGQiOiJyb2dsb2JhbC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRhdmkudmlwMi5tdnBuNWcuY29tIiwiaWQiOiIyZGY2MTdhMy04MDQ2LTRiZjEtZjBmYi1kNTM5NzU2Zjk5Y2IiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MiLCJwb3J0IjoiODAiLCJwcyI6IvCflLQxLlRSVUUtUFJPLVJPVi5FWFRSRU0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
