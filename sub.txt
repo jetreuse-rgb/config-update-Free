@@ -7,3 +7,10 @@ vless://ff0c1cde-6f94-4bf1-9774-ab25c6b4977d@www.true.th:80?path=%2Fknl8&securit
 vless://c5c65acc-dd23-463b-c5ec-687f6442899e@www.true.th:80?path=%2Fknl4&security=none&encryption=none&host=d3nikl689a8qpk.cloudfront.net&type=ws#%F0%9F%94%B51.DTAC%20NOPRO
 vless://7930c91a-9119-4747-b9e5-7a6ba4639fb4@www.true.th:80?path=%2Fknl8&security=none&encryption=none&host=d7iwyzy9wpvuu.cloudfront.net&type=ws#%F0%9F%94%B57.Dtac%20NOPRO
 vless://b788d71b-ec41-40a0-fbbd-32b74dc9e1f1@www.true.th:80?path=%2F&security=none&encryption=none&host=dt8ye6k8febu8.cloudfront.net&type=ws#%F0%9F%94%B53.DTAC%20NOPRO
+vless://b788d71b-ec41-40a0-fbbd-32b74dc9e1f1@dugb2wfok87zg.cloudfront.net:80?path=%2F&security=none&encryption=none&host=dt8ye6k8febu8.cloudfront.net&type=ws#%F0%9F%9F%A24.Ais-play-10Mbps
+vless://4d6b48ea-3a7f-43b7-8022-029a2373f351@roglobal.com:80?path=%2Fpontai&security=none&encryption=none&host=v1.mister-chills.uk&type=ws#%F0%9F%94%B45.TRUE-PRO-ROV.EXTREM
+vless://f0a9c811-3e6f-4849-9ce2-2b418b21099e@roglobal.com:80?path=%2Fpongtai&security=none&encryption=none&host=v3.mister-chills.uk&type=ws#%F0%9F%94%B43.TRUE-PRO-ROV.EXTREM
+vless://deb18b09-f3f8-4287-8d6a-43819544aa52@roglobal.com:80?path=%2Fpongtai&security=none&encryption=none&host=v2.mister-chills.uk&type=ws#%F0%9F%94%B44.TRUE-PRO-ROV.EXTREM
+vless://7930c91a-9119-4747-b9e5-7a6ba4639fb4@dugb2wfok87zg.cloudfront.net:80?path=%2Fknl8&security=none&encryption=none&host=d7iwyzy9wpvuu.cloudfront.net&type=ws#%F0%9F%9F%A23.Ais-play-10Mbps
+vless://7930c91a-9119-4747-b9e5-7a6ba4639fb4@dugb2wfok87zg.cloudfront.net:80?path=%2Fknl8&security=none&encryption=none&host=d7iwyzy9wpvuu.cloudfront.net&type=ws#%F0%9F%9F%A22.Ais-play-10Mbps
+vless://ff0c1cde-6f94-4bf1-9774-ab25c6b4977d@dugb2wfok87zg.cloudfront.net:80?path=%2Fknl8&security=none&encryption=none&host=d7iwyzy9wpvuu.cloudfront.net&type=ws#%F0%9F%9F%A21.Ais-play-10Mbps
