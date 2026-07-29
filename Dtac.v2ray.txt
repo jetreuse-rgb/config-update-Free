@@ -2,7 +2,7 @@ vless://7930c91a-9119-4747-b9e5-7a6ba4639fb4@www.true.th:80?path=%2Fknl8&securit
 vless://7930c91a-9119-4747-b9e5-7a6ba4639fb4@www.true.th:80?path=%2Fknl8&security=none&encryption=none&host=d7iwyzy9wpvuu.cloudfront.net&type=ws#%F0%9F%94%B52.Dtac%20NOPRO
 vless://ff0c1cde-6f94-4bf1-9774-ab25c6b4977d@www.true.th:80?path=%2Fknl8&security=none&encryption=none&host=d7iwyzy9wpvuu.cloudfront.net&type=ws#%F0%9F%94%B53.Dtac%20NOPRO
 vless://ff0c1cde-6f94-4bf1-9774-ab25c6b4977d@www.true.th:80?path=%2Fknl8&security=none&encryption=none&host=d7iwyzy9wpvuu.cloudfront.net&type=ws#%F0%9F%94%B54.DTAC%20NOPRO
-vless://ff0c1cde-6f94-4bf1-9774-ab25c6b4977d@www.true.th:80?path=%2Fknl8&security=none&encryption=none&host=d7iwyzy9wpvuu.cloudfront.net&type=ws#%F0%9F%94%B56.Dtac%20NOPRO
+vless://ff0c1cde-6f94-4bf1-9774-ab25c6b4977d@www.true.th:80?path=%2Fknl8&security=none&encryption=none&host=d7iwyzy9wpvuu.cloudfront.net&type=ws#%F0%9F%94%B55.Dtac%20NOPRO
 
 
 
