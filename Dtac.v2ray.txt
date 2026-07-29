@@ -1,5 +1,5 @@
 vless://ff0c1cde-6f94-4bf1-9774-ab25c6b4977d@www.true.th:80?path=%2Fknl8&security=none&encryption=none&host=d7iwyzy9wpvuu.cloudfront.net&type=ws#%F0%9F%94%B51.DTAC%20NOPRO
 vless://9096a651-4913-481a-c5cc-7f7ffef7a5d5@www.true.th:80?path=%2F&security=none&encryption=none&host=dt8ye6k8febu8.cloudfront.net&type=ws#%F0%9F%94%B52.DTAC%20NOPRO
 vless://89c3b66f-c849-4602-a5a8-84b6f06af478@www.true.th:80?path=%2F&security=none&encryption=none&host=d2pwbkmfr5lxa4.cloudfront.net&type=ws#%F0%9F%94%B53.DTAC%20NOPRO
-
+vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@www.true.th:80?path=%2F&security=none&encryption=none&host=d2e1v87ko56lyw.cloudfront.net&type=ws#%F0%9F%94%B54.DTAC%20NOPRO
 
