@@ -2,3 +2,4 @@ vless://9096a651-4913-481a-c5cc-7f7ffef7a5d5@aisplay.ais.co.th:80?path=%2F&secur
 vless://89c3b66f-c849-4602-a5a8-84b6f06af478@aisplay.ais.co.th:80?path=%2F&security=none&encryption=none&host=d2pwbkmfr5lxa4.cloudfront.net&type=ws#%F0%9F%9F%A22.Ais-play-10Mbps
 vless://ff0c1cde-6f94-4bf1-9774-ab25c6b4977d@aisplay.ais.co.th:80?path=%2Fknl8&security=none&encryption=none&host=d7iwyzy9wpvuu.cloudfront.net&type=ws#%F0%9F%9F%A23.Ais-play-10Mbps
 vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@aisplay.ais.co.th:80?path=%2F&security=none&encryption=none&host=d2e1v87ko56lyw.cloudfront.net&type=ws#%F0%9F%9F%A24.Ais-play-10Mbps
+vless://19668b6f-e215-41e6-8102-b8d29fb5b8ae@aisplay.ais.co.th:80?path=%2Ffnet50&security=none&encryption=none&host=duatoup3wk8q2.cloudfront.net&type=ws#%F0%9F%9F%A25.Ais-play-10Mbps
