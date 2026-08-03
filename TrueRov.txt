@@ -7,4 +7,8 @@ vless://f0a9c811-3e6f-4849-9ce2-2b418b21099e@roglobal.com:80?path=%2Fpongtai&sec
 vless://a5354b64-5aba-4220-80db-86fea581a166@roglobal.com:8880?path=%2F&security=none&encryption=none&host=openvpn.tmweasy.com&type=ws#%F0%9F%94%B47.TRUE-PRO-ROV.EXTREM
 vless://71441f62-7d9e-4c79-bff0-fde8c54b09df@roglobal.com:80?path=%2F&security=none&encryption=none&host=v2vip1.kothaktt.com&type=ws#%F0%9F%94%B48.TRUE-PRO-ROV.EXTREM
 vless://dcbcfd68-ef3a-47e3-874c-b0f2a631d84c@roglobal.com:80?path=%2F&security=none&encryption=none&host=truerov.knlvpn.com&type=ws#%F0%9F%94%B49.TRUE-PRO-ROV.EXTREM
+vless://71441f62-7d9e-4c79-bff0-fde8c54b09df@roglobal.com:80?path=%2F&security=none&encryption=none&host=v2vip1.kothaktt.com&type=ws#%F0%9F%94%B411.TRUE-PRO-ROV.EXTREM
+vless://72832df4-a520-4dbf-a81c-a750a692a1c0@roglobal.com:80?path=%2F&security=none&encryption=none&host=truerov.knlvpn.com&type=ws#%F0%9F%94%B410.TRUE-PRO-ROV.EXTREM
+
+
 
