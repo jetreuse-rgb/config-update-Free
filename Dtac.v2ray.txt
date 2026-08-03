@@ -1,9 +1,6 @@
-vless://cf373292-37b9-4f4e-8402-8391b0107be1@www.true.th:80?path=%2F&security=none&encryption=none&host=dw921elvylion.cloudfront.net&type=ws#TH%F0%9F%94%B55.DTAC
-vless://63ae5b68-f6f8-432e-b440-d975053cfbc2@www.true.th:80?path=%2Fskynet&security=none&encryption=none&host=d1g0jlrlppl8b0.cloudfront.net&type=ws#TH%F0%9F%94%B54.DTAC
-vless://63ae5b68-f6f8-432e-b440-d975053cfbc2@www.true.th:80?path=%2Fskynet&security=none&encryption=none&host=d1g0jlrlppl8b0.cloudfront.net&type=ws#TH%F0%9F%94%B59.DTAC
-vless://99bf2a5c-f234-499c-9186-4af29ab944d9@www.true.th:80?path=%2F&security=none&encryption=none&host=d2fdsrgmq2hqd7.cloudfront.net&type=ws#TH%F0%9F%94%B56.DTAC
-vless://8635f466-6692-40c8-856e-6f19d2745d9c@www.true.th:80?path=%2Flock1&security=none&encryption=none&host=d3nikl689a8qpk.cloudfront.net&type=ws#TH%F0%9F%94%B58.DTAC
-vless://63ae5b68-f6f8-432e-b440-d975053cfbc2@www.true.th:80?path=%2Fskynet&security=none&encryption=none&host=d1g0jlrlppl8b0.cloudfront.net&type=ws#TH%F0%9F%94%B52.DTAC
-vless://cf373292-37b9-4f4e-8402-8391b0107be1@www.true.th:80?path=%2F&security=none&encryption=none&host=dw921elvylion.cloudfront.net&type=ws#TH%F0%9F%94%B57.DTAC
-vless://cf373292-37b9-4f4e-8402-8391b0107be1@www.true.th:80?path=%2F&security=none&encryption=none&host=dw921elvylion.cloudfront.net&type=ws#TH%F0%9F%94%B53.DTAC
-vless://99bf2a5c-f234-499c-9186-4af29ab944d9@www.true.th:80?path=%2F&security=none&encryption=none&host=d2fdsrgmq2hqd7.cloudfront.net&type=ws#TH%F0%9F%94%B51.DTAC
+vless://63ae5b68-f6f8-432e-b440-d975053cfbc2@www.true.th:80?path=%2Fskynet&security=none&encryption=none&host=d1g0jlrlppl8b0.cloudfront.net&type=ws#TH%F0%9F%94%B54.DTAC-NOPRO
+vless://8635f466-6692-40c8-856e-6f19d2745d9c@www.true.th:80?path=%2Flock1&security=none&encryption=none&host=d3nikl689a8qpk.cloudfront.net&type=ws#TH%F0%9F%94%B55.DTAC-NOPRO
+vless://305bc988-c2d8-4411-9753-6591f2c1c0c6@www.true.th:80?path=%2Fkknl&security=none&encryption=none&host=d36l8z6d3fyb0l.cloudfront.net&type=ws#TH%F0%9F%94%B52.DTAC-NOPRO
+vless://99bf2a5c-f234-499c-9186-4af29ab944d9@www.true.th:80?path=%2F&security=none&encryption=none&host=d2fdsrgmq2hqd7.cloudfront.net&type=ws#TH%F0%9F%94%B56.DTAC-NOPRO
+vless://1fa154c9-1d8f-46aa-9949-2024d883d020@www.true.th:80?path=%2F&security=none&encryption=none&host=dw921elvylion.cloudfront.net&type=ws#TH%F0%9F%94%B53.DTAC-NOPRO
+vless://cf373292-37b9-4f4e-8402-8391b0107be1@www.true.th:80?path=%2F&security=none&encryption=none&host=dw921elvylion.cloudfront.net&type=ws#TH%F0%9F%94%B51.DTAC-NOPRO
