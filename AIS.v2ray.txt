@@ -1,5 +1,5 @@
-vless://cf373292-37b9-4f4e-8402-8391b0107be1@aisplay.ais.co.th:80?path=%2F&security=none&encryption=none&host=dw921elvylion.cloudfront.net&type=ws#TH-2%F0%9F%9F%A2AISPLAY-10Mbps
-vless://1fa154c9-1d8f-46aa-9949-2024d883d020@aisplay.ais.co.th:80?path=%2F&security=none&encryption=none&host=dw921elvylion.cloudfront.net&type=ws#TH-6%F0%9F%9F%A2AISPLAY-10Mbps
+vless://f4c5605a-8424-441e-b23d-d6384d012c28@aisplay.ais.co.th:80?path=%2F&security=none&encryption=none&host=d1lqmh9essu84u.cloudfront.net&type=ws#TH-2%F0%9F%9F%A2AISPLAY-10Mbps
+vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@aisplay.ais.co.th:443?path=%2F&security=tls&encryption=none&insecure=1&host=d1yxsk0zprgivr.cloudfront.net%3Aassets.opensignal.com&fp=chrome&type=ws&allowInsecure=1&sni=d1yxsk0zprgivr.cloudfront.net#TH-6%F0%9F%9F%A2AISPLAY-10Mbps
 vless://63ae5b68-f6f8-432e-b440-d975053cfbc2@aisplay.ais.co.th:80?path=%2Fskynet&security=none&encryption=none&host=d1g0jlrlppl8b0.cloudfront.net&type=ws#TH-5%F0%9F%9F%A2AISPLAY-10Mbps
 vless://99bf2a5c-f234-499c-9186-4af29ab944d9@aisplay.ais.co.th:80?path=%2F&security=none&encryption=none&host=d2fdsrgmq2hqd7.cloudfront.net&type=ws#TH-4%F0%9F%9F%A2AISPLAY-10Mbps
 vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@aisplay.ais.co.th:443?path=%2F&security=tls&encryption=none&insecure=1&host=d1yxsk0zprgivr.cloudfront.net&fp=chrome&type=ws&allowInsecure=1&sni=d1yxsk0zprgivr.cloudfront.net#TH-1%F0%9F%9F%A2AISPLAY-10Mbps
