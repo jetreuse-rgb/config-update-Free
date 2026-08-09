@@ -3,4 +3,4 @@ vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@aisplay.ais.co.th:443?path=%2F&secu
 vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@aisplay.ais.co.th:443?path=%2F&security=tls&encryption=none&insecure=1&host=d1yxsk0zprgivr.cloudfront.net&fp=chrome&type=ws&allowInsecure=1&sni=d1yxsk0zprgivr.cloudfront.net#TH-1%F0%9F%9F%A2AISPLAY-10Mbps
 vless://f4c5605a-8424-441e-b23d-d6384d012c28@aisplay.ais.co.th:80?path=%2F&security=none&encryption=none&host=d1lqmh9essu84u.cloudfront.net&type=ws#TH-3%F0%9F%9F%A2AISPLAY-10Mbps
 vless://e6d8ce83-ffea-4736-e91d-443523e972e5@aisplay.ais.co.th:80?path=%2F&security=none&encryption=none&host=d3ufnxdbzpa7nk.cloudfront.net&type=ws#TH-7%F0%9F%9F%A2AISPLAY-10Mbps
-
+vless://968d8a36-f29d-4211-eca6-69a998b55401@aisplay.ais.co.th:80?path=%2F&security=none&encryption=none&host=d3ufnxdbzpa7nk.cloudfront.net&type=ws#TH-4%F0%9F%9F%A2AISPLAY-10Mbps
