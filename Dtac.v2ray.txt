@@ -2,5 +2,5 @@ vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@www.true.th:443?path=%2F&security=t
 vless://f4c5605a-8424-441e-b23d-d6384d012c28@www.true.th:80?path=%2F&security=none&encryption=none&host=d1lqmh9essu84u.cloudfront.net&type=ws#TH%F0%9F%94%B51.DTAC-NOPRO
 vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@www.true.th:443?path=%2F&security=tls&encryption=none&insecure=1&host=d1yxsk0zprgivr.cloudfront.net&fp=chrome&type=ws&allowInsecure=1&sni=d1yxsk0zprgivr.cloudfront.net#TH%F0%9F%94%B55.DTAC-NOPRO
 vless://f4c5605a-8424-441e-b23d-d6384d012c28@www.true.th:80?path=%2F&security=none&encryption=none&host=d1lqmh9essu84u.cloudfront.net&type=ws#TH%F0%9F%94%B52.DTAC-NOPRO
-
+vless://e6d8ce83-ffea-4736-e91d-443523e972e5@www.true.th:80?path=%2F&security=none&encryption=none&host=d3ufnxdbzpa7nk.cloudfront.net&type=ws#TH%F0%9F%94%B56.DTAC-NOPRO
 
