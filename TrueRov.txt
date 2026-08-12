@@ -2,9 +2,7 @@ vless://deb18b09-f3f8-4287-8d6a-43819544aa52@roglobal.com:80?path=%2Fpongtai&sec
 vless://4d6b48ea-3a7f-43b7-8022-029a2373f351@roglobal.com:80?path=%2Fpontai&security=&encryption=none&host=v1.mister-chills.uk&type=ws#%F0%9F%94%B45.TRUE-PRO-ROV.EXTREM
 vless://f0a9c811-3e6f-4849-9ce2-2b418b21099e@roglobal.com:80?path=%2Fpongtai&security=none&encryption=none&host=v3.mister-chills.uk&type=ws#%F0%9F%94%B46.TRUE-PRO-ROV.EXTREM
 vless://a5354b64-5aba-4220-80db-86fea581a166@roglobal.com:8880?path=%2F&security=none&encryption=none&host=openvpn.tmweasy.com&type=ws#%F0%9F%94%B47.TRUE-PRO-ROV.EXTREM
-
 vless://dcbcfd68-ef3a-47e3-874c-b0f2a631d84c@roglobal.com:80?path=%2F&security=none&encryption=none&host=truerov.knlvpn.com&type=ws#%F0%9F%94%B49.TRUE-PRO-ROV.EXTREM
-
 vless://72832df4-a520-4dbf-a81c-a750a692a1c0@roglobal.com:80?path=%2F&security=none&encryption=none&host=truerov.knlvpn.com&type=ws#%F0%9F%94%B410.TRUE-PRO-ROV.EXTREM
 
 
