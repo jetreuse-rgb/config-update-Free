@@ -1,6 +1,4 @@
 vless://f4c5605a-8424-441e-b23d-d6384d012c28@aisplay.ais.co.th:80?path=%2F&security=none&encryption=none&host=d1lqmh9essu84u.cloudfront.net&type=ws#TH-2%F0%9F%9F%A2AISPLAY-10Mbps
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@aisplay.ais.co.th:443?path=%2F&security=tls&encryption=none&insecure=1&host=d1yxsk0zprgivr.cloudfront.net&fp=chrome&type=ws&allowInsecure=1&sni=d1yxsk0zprgivr.cloudfront.net#TH-6%F0%9F%9F%A2AISPLAY-10Mbps
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@aisplay.ais.co.th:443?path=%2F&security=tls&encryption=none&insecure=1&host=d1yxsk0zprgivr.cloudfront.net&fp=chrome&type=ws&allowInsecure=1&sni=d1yxsk0zprgivr.cloudfront.net#TH-1%F0%9F%9F%A2AISPLAY-10Mbps
 vless://f4c5605a-8424-441e-b23d-d6384d012c28@aisplay.ais.co.th:80?path=%2F&security=none&encryption=none&host=d1lqmh9essu84u.cloudfront.net&type=ws#TH-3%F0%9F%9F%A2AISPLAY-10Mbps
 vless://8d1692f9-e726-43e7-850a-58a4fa42debb@aisplay.ais.co.th:80?path=%2Fknl7&security=none&encryption=none&host=d1g0jlrlppl8b0.cloudfront.net&type=ws#TH-7%F0%9F%9F%A2AISPLAY-10Mbps
 vless://cb700418-90ba-4da0-b319-64a2d46f754e@aisplay.ais.co.th:80?path=%2Fkind1&security=none&encryption=none&host=d3saayob5cvi7l.cloudfront.net&type=ws#TH-4%F0%9F%9F%A2AISPLAY-10Mbps
