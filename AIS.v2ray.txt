@@ -1,4 +1,4 @@
-vless://f4c5605a-8424-441e-b23d-d6384d012c28@aisplay.ais.co.th:80?path=%2F&security=none&encryption=none&host=d1lqmh9essu84u.cloudfront.net&type=ws#TH-2%F0%9F%9F%A2AISPLAY-10Mbps
-vless://f4c5605a-8424-441e-b23d-d6384d012c28@aisplay.ais.co.th:80?path=%2F&security=none&encryption=none&host=d1lqmh9essu84u.cloudfront.net&type=ws#TH-3%F0%9F%9F%A2AISPLAY-10Mbps
-vless://8d1692f9-e726-43e7-850a-58a4fa42debb@aisplay.ais.co.th:80?path=%2Fknl7&security=none&encryption=none&host=d1g0jlrlppl8b0.cloudfront.net&type=ws#TH-7%F0%9F%9F%A2AISPLAY-10Mbps
-vless://cb700418-90ba-4da0-b319-64a2d46f754e@aisplay.ais.co.th:80?path=%2Fkind1&security=none&encryption=none&host=d3saayob5cvi7l.cloudfront.net&type=ws#TH-4%F0%9F%9F%A2AISPLAY-10Mbps
+vless://f4c5605a-8424-441e-b23d-d6384d012c28@aisplay.ais.co.th:80?path=%2F&security=&encryption=none&host=d1lqmh9essu84u.cloudfront.net&type=ws#TH-3-AISPLAY-10Mbps
+vmess://eyJhZGQiOiJhaXNwbGF5LmFpcy5jby50aCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZDdwdTVtenI5YzRiMC5jbG91ZGZyb250Lm5ldCIsImlkIjoiY2NmZmJhYTEtZDNkMS00ZjQwLWFmOGQtMzEyNzBmZTFjZWNjIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2h0dW4iLCJwY3MiOiIiLCJwb3J0IjoiODAiLCJwcyI6IlRILTItQUlTUExBWS0xME1icHMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwidmNuIjoiIn0=
+vless://81f36f47-ed26-433e-8c26-2b0b552eb235@aisplay.ais.co.th:80?path=%2Fknl7&security=none&encryption=none&host=d1g0jlrlppl8b0.cloudfront.net&type=ws#TH-1-AISPLAY-10Mbps
+vless://614b3401-edd8-49ea-aa67-cd11cb896659@aisplay.ais.co.th:80?path=%2Fkind1&security=none&encryption=none&host=d3saayob5cvi7l.cloudfront.net&type=ws#TH-4-AISPLAY-10Mbps
