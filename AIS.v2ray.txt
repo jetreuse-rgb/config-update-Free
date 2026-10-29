@@ -2,3 +2,4 @@ vless://f4c5605a-8424-441e-b23d-d6384d012c28@aisplay.ais.co.th:80?path=%2F&secur
 vless://290ce883-0092-4421-a3dd-f6fe76860ff6@aisplay.ais.co.th:80?path=%2Flogout&security=&encryption=none&host=d3r7smss70mcpt.cloudfront.net&type=ws#VIP3-Aispay3
 vless://0c85001b-ad48-4f43-bdc9-b2b5c626a26e@aisplay.ais.co.th:80?path=%2Flogout&security=none&encryption=none&host=d3r7smss70mcpt.cloudfront.net&type=ws#aisplay
 vless://6c162940-3868-4480-b799-fb8bd99f2b29@aisplay.ais.co.th:80?path=%2Flogout&security=none&encryption=none&host=d3r7smss70mcpt.cloudfront.net&type=ws#Ais-Play1
+vless://3762c0f6-eaa5-4cc0-bae4-81c836030973@aisplay.ais.co.th:80?path=%2F&security=&encryption=none&host=d2qcpub79wb31.cloudfront.net&type=ws#Cloud%20Front-32-ais
