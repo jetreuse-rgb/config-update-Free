@@ -1,5 +1,5 @@
-vless://f4c5605a-8424-441e-b23d-d6384d012c28@aisplay.ais.co.th:80?path=%2F&security=none&encryption=none&host=dcm4kwis2exkw.cloudfront.net&type=ws#Ais_04
-vless://290ce883-0092-4421-a3dd-f6fe76860ff6@aisplay.ais.co.th:80?path=%2Flogout&security=&encryption=none&host=d3r7smss70mcpt.cloudfront.net&type=ws#VIP3-Aispay3
-vless://0c85001b-ad48-4f43-bdc9-b2b5c626a26e@aisplay.ais.co.th:80?path=%2Flogout&security=none&encryption=none&host=d3r7smss70mcpt.cloudfront.net&type=ws#aisplay
-vless://6c162940-3868-4480-b799-fb8bd99f2b29@aisplay.ais.co.th:80?path=%2Flogout&security=none&encryption=none&host=d3r7smss70mcpt.cloudfront.net&type=ws#Ais-Play1
-vless://3762c0f6-eaa5-4cc0-bae4-81c836030973@aisplay.ais.co.th:80?path=%2F&security=&encryption=none&host=d2qcpub79wb31.cloudfront.net&type=ws#Cloud%20Front-32-ais
+vless://f4c5605a-8424-441e-b23d-d6384d012c28@aisplay.ais.co.th:80?path=%2F&security=&encryption=none&host=dcm4kwis2exkw.cloudfront.net&type=ws#Ais_04
+vless://a90391fd-db19-4a6a-be7b-0479dd1aa14c@aisplay.ais.co.th:80?path=%2Fais1&security=&encryption=none&host=didmbpje6g7pc.cloudfront.net&type=ws#Ais-2
+vless://9a6189e3-2270-4b50-be23-742211c65f1b@aisplay.ais.co.th:80?path=%2Fais1&security=&encryption=none&host=didmbpje6g7pc.cloudfront.net&type=ws#Ais-3
+vless://a72dfd7d-111b-41b7-91ae-a9f5fe8fa0ea@aisplay.ais.co.th:80?path=%2Fais1&security=&encryption=none&host=didmbpje6g7pc.cloudfront.net&type=ws#Ais-1ds72de7
+
