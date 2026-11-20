@@ -1,9 +1,2 @@
+vless://75af387f-99c5-47a8-9f1b-1eb9703a5707@aisplay.ais.co.th:80?path=%2Fpro&security=&encryption=none&host=d3ovxdam53bl8f.cloudfront.net&type=ws#PLAY
 vless://f4c5605a-8424-441e-b23d-d6384d012c28@aisplay.ais.co.th:80?path=%2F&security=&encryption=none&host=dcm4kwis2exkw.cloudfront.net&type=ws#Ais_04
-vless://a77d120d-f9f9-4240-bc97-8ba6ba8e3e68@aisplay.ais.co.th:80?path=%2Flogout&security=none&encryption=none&host=d36lt9hzl2ug3d.cloudfront.net&type=ws#VIP2-AIS
-vless://6c162940-3868-4480-b799-fb8bd99f2b29@aisplay.ais.co.th:80?path=%2Flogout&security=none&encryption=none&host=d36lt9hzl2ug3d.cloudfront.net&type=ws#VIP1-AIS
-vless://0c85001b-ad48-4f43-bdc9-b2b5c626a26e@aisplay.ais.co.th:80?path=%2Flogout&security=none&encryption=none&host=d36lt9hzl2ug3d.cloudfront.net&type=ws#VIP3-AIS
-vless://290ce883-0092-4421-a3dd-f6fe76860ff6@aisplay.ais.co.th:80?path=%2Flogout&security=none&encryption=none&host=d36lt9hzl2ug3d.cloudfront.net&type=ws#VIP5-Aispay3
-
-
-
-
