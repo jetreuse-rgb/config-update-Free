@@ -1,3 +1,5 @@
-vless://75af387f-99c5-47a8-9f1b-1eb9703a5707@aisplay.ais.co.th:80?path=%2Fpro&security=&encryption=none&host=d3ovxdam53bl8f.cloudfront.net&type=ws#PLAY
-vless://f4c5605a-8424-441e-b23d-d6384d012c28@aisplay.ais.co.th:80?path=%2F&security=&encryption=none&host=dcm4kwis2exkw.cloudfront.net&type=ws#Ais_04
-vmess://eyJhZGQiOiJhaXNwbGF5LmFpcy5jby50aCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZDFnMGpscmxwcGw4YjAuY2xvdWRmcm9udC5uZXQiLCJpZCI6IjY5OGQwNWNlLTAyMTktNGVlOC1lMmY1LTM4MjhlNjNhNzFlMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9teW8iLCJwY3MiOiIiLCJwb3J0IjoiODAiLCJwcyI6IjEzMS1Kb21BaXNQbGF5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInZjbiI6IiJ9
+vless://75af387f-99c5-47a8-9f1b-1eb9703a5707@aisplay.ais.co.th:80?path=%2Fpro&security=none&encryption=none&host=d3ovxdam53bl8f.cloudfront.net&type=ws#AIS5
+vless://e3ceb037-c4a1-4357-bba3-44c6fb582a15@aisplay.ais.co.th:80?path=%2Fpro&security=none&encryption=none&host=d3ovxdam53bl8f.cloudfront.net&type=ws#AIS3
+vless://438ac34d-60a6-4a62-9790-f2d805422c18@aisplay.ais.co.th:80?path=%2Fpro&security=none&encryption=none&host=d3ovxdam53bl8f.cloudfront.net&type=ws#AIS2
+vless://75af387f-99c5-47a8-9f1b-1eb9703a5707@aisplay.ais.co.th:80?path=%2Fpro&security=none&encryption=none&host=d3ovxdam53bl8f.cloudfront.net&type=ws#AIS4
+vless://0c3b9205-ecec-4458-a6c3-b3d269efc2ad@aisplay.ais.co.th:80?path=%2Fpro&security=none&encryption=none&host=d3ovxdam53bl8f.cloudfront.net&type=ws#AIS1
